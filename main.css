@@ -1,0 +1,68 @@
+body {
+    letter-spacing: -.4px;
+}
+
+img {
+    display: block;
+    max-width: 9%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#card {
+    font-weight: 900;
+}
+
+#sign-in {
+    background: linear-gradient(180deg, rgb(255, 206, 115), rgb(216, 158, 0));
+    border: solid 1px rgb(136, 100, 0);
+}
+
+#create {
+    position: relative; top:-14px;
+    background: linear-gradient(180deg, rgb(255, 255, 255), rgb(226, 226, 226));
+    border: solid 1px rgb(133, 133, 133);
+}
+
+#sign-in, #create {
+    color: black;
+    font-weight: 500;
+}
+
+#sign-header {
+    font-size: 30px;
+    font-weight: 490x;
+}
+
+#font {
+    font-weight: 490px;
+}
+
+#bold {
+    font-weight: 650;
+}
+
+#conditions {
+    font-size: 90%;
+}
+
+#new {
+    position: relative; top:-30px;
+    color: lightgrey;
+    display: inline;
+    text-transform: uppercase;
+    font-size: 90%;
+    background-color: white;
+    padding: 0px 15px 0px 15px;
+}
+
+.class {
+    display: inline;
+    margin-left: px;
+}
+
+hr.line {
+    margin-left: 25px;
+    margin-right: 25px;
+}
